@@ -10,6 +10,6 @@ But Andrew chose Octave/Matlab for this course, based on his analysis of course 
 
 For those who are beginners with only some experience of Python, or who like me opt to Python more than other languages, surely such choice reslults in some inconvenience.
 
-Therefore, this project is born, aiming to re-do all the exercises using only Python.
+Therefore, I decided to re-do all the exercises using only Python.
 
-All exercises would be completed using Jupyter Notebook, and as much as possible of the content of a exercise would be re-write in Python. Also the source data files would be uploaded with the Notebooks, just for your convenience. 
+All exercises would be completed using Jupyter Notebook, and as much as possible of the content of a exercise would be re-write in Python. Also the source data files would be uploaded with the Notebooks. 
