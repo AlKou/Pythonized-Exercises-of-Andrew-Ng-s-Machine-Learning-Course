@@ -26,7 +26,7 @@ Some of the exercises have 2 major topics, like Logistic Regression One-vs-All a
 
 -_Seaborn_: **0.8.1**
 
--_Scikit-Learn: **0.19.1**
+-_Scikit-Learn_: **0.19.1**
 
 # Notes:
 
